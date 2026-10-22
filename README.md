@@ -1,4 +1,4 @@
-# IMDb Movie Review Sentiment Analysis
+# IMDB Movie Review Sentiment Analysis
 
 A complete deep learning project for classifying English movie reviews as **positive** or **negative**. It combines a notebook based NLP workflow with a ready to run Streamlit app powered by a trained Bidirectional LSTM (BiLSTM).
 
