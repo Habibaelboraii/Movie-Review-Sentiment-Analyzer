@@ -4,17 +4,6 @@ A complete deep learning project for classifying English movie reviews as **posi
 
 > Type or paste a review into the app to see its predicted sentiment, positive and negative scores, and the text produced by preprocessing.
 
-## Contents
-
-- [Project overview](#project-overview)
-- [How it works](#how-it-works)
-- [Web app](#web-app)
-- [Repository files](#repository-files)
-- [Run the app](#run-the-app)
-- [Run the notebooks](#run-the-notebooks)
-- [Model evaluation](#model-evaluation)
-- [Limitations](#limitations)
-- [Data and large files](#data-and-large-files)
 
 ## Project overview
 
