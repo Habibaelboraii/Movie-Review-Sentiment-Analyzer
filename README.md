@@ -103,11 +103,6 @@ The web application uses the saved BiLSTM model and tokenizer to process new rev
 
 
 
-
-
-\
-
-
 Additional libraries:
 
 - NumPy
@@ -123,7 +118,7 @@ IMDb-Sentiment-Analysis/
 │
 ├── app.py
 ├── sentiment.py
-├── project2(2).ipynb
+├── project2.ipynb
 ├── IMDB Dataset.csv
 ├── bilstm_model.keras
 ├── lstm_model.keras
@@ -200,8 +195,8 @@ The notebook evaluates the classical Machine Learning baselines and the LSTM/BiL
 
 AI & Machine Learning | Deep Learning | Natural Language Processing
 
-- GitHub: [Your GitHub Profile](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
+- GitHub: [Your GitHub Profile](https://Habibaelboraii)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/habiba-elboraii/)
 
 ---
 
